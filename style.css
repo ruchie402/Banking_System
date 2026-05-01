@@ -1,0 +1,6 @@
+body { height: 100vh; font-family: 'Courier New', monospace; }
+.atm-container { background: #4b4b4b; width: 500px; border: 8px solid #333; }
+.atm-screen { background: #004d40; color: #00ffcc; height: 300px; border: 10px solid #222; }
+.atm-btn { width: 40px; height: 35px; background: #ccc; border: 2px solid #888; border-radius: 3px; font-weight: bold; }
+.atm-btn:active { background: #999; }
+.form-control { background: rgba(255, 255, 255, 0.1); border: 1px solid #00ffcc; color: #00ffcc; }
